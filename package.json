@@ -2,7 +2,7 @@
   "name": "wellnesstracker",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://https://theandthem.github.io/wellness/",
+  "homepage": "https://theandthem.github.io/wellness/",
   "type": "module",
   "scripts": {
     "dev": "vite",
